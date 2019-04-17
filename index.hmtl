@@ -10,8 +10,8 @@
 		#BDMap_control{height:4%; width:49%; float:left; border:1px solid blue;}
 		#QQMap_control{height:4%; width:49%; float:left; border:1px solid red;}
 	</style>
-	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=4bf91aa6f1ed5fa33169ad81c8112825"></script>
-    <script type="text/javascript" charset="utf-8" src="http://map.qq.com/api/js?v=2.exp"></script>
+	<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=4bf91aa6f1ed5fa33169ad81c8112825"></script>
+    <script type="text/javascript" charset="utf-8" src="https://map.qq.com/api/js?v=2.exp"></script>
 	<script type="text/javascript" charset="utf-8" src="./js/bdmap.js"></script>
 	<script type="text/javascript" charset="utf-8" src="./js/qqmap.js"></script>
 	<title>轨迹查看工具</title>
